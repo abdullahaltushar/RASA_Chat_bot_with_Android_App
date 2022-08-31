@@ -4,7 +4,7 @@
 
 | Univarstiy Information Bot                            
 |-------------------------------------|
-|<img src="bot.png" width="350"> |
+|<img src="bot.PNG" width="350"> |
  
  
  <br />
